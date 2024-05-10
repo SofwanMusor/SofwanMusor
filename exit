@@ -1,0 +1,10 @@
+credential.helper=!f() { /home/vscode/.vscode-server/bin/b58957e67ee1e712cebf466b995adf4c5307b2bd/node /tmp/vscode-remote-containers-f6326571-6aec-4759-8d36-1a41c925be58.js git-credential-helper $*; }; f
+credential.helper=!f() { /home/vscode/.vscode-server/bin/b58957e67ee1e712cebf466b995adf4c5307b2bd/node /tmp/vscode-remote-containers-f6326571-6aec-4759-8d36-1a41c925be58.js git-credential-helper $*; }; f
+user.email=sorfuan.electronic@gmail.com
+user.name=SofwanMusor
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/SofwanMusor/Roadmap
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
